@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">BreakFree</string>
+
+    <string name="accessibility_service_description">
+        BreakFree monitors TikTok usage to help you stick to your daily limit.
+    </string>
+
+    <string name="overlay_title">TikTok is blocked</string>
+    <string name="overlay_body">You\'ve reached your daily limit for today.\nBreakFree will unlock TikTok again tomorrow.</string>
+    <string name="overlay_open_app">Open BreakFree</string>
+
+</resources>
